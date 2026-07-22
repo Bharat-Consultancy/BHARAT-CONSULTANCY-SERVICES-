@@ -1,0 +1,6 @@
+{
+  "name": "BHARAT CONSULTANCY SERVICES",
+  "description": "Comprehensive Consultancy Portal for Loans, Insurance, Company Registration, Trademark & Logo, GST Filings, and Citizen Services (PAN, Birth/Death Certificates, Aadhaar) with Online Application Portal, Status Tracking & Secure Payment Gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
